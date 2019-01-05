@@ -4,8 +4,6 @@ date = "8 Jan 2019"
 type = "page"
 hidden = false
 weight = 300
-
-theme = "psu" # "league"
 +++
 
 You can store data in the following locations:

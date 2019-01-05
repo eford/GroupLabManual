@@ -2,7 +2,6 @@
 title = "Ford Group Site"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-theme = "psu" # "league"
 
 # Creator's Display name
 creatordisplayname = "Eric Ford"
@@ -30,4 +29,4 @@ showNotes= true
 - [Meetings](/meetings)
 - [Professional Development](/profdev)
 
-
+[Learn how to Contribute to this site](/contribute)

@@ -5,7 +5,6 @@ type = "page"
 hidden = false
 weight = 300
 
-theme = "psu" # "league"
 [revealOptions]
 transition= 'slide' # 'none','fade','concave','convex','zoom'
 controls= true

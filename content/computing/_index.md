@@ -3,8 +3,6 @@ title = "Computing"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type = "page"
 weight = 100
-theme = "psu" # "league"
-
 
 # Creator's Display name
 creatordisplayname = "Eric Ford"

@@ -5,8 +5,6 @@ type = "page"
 hidden = false
 weight = 1000
 
-theme = "psu" # "league"
-
 # Creator's Display name
 creatordisplayname = "Daniel Carrera"
 # Creator's Email
