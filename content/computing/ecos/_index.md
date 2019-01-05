@@ -20,6 +20,7 @@ lastmodifierdisplayname = "Eric Ford"
 
 ## Links to useful pages
 - [Astro Dept Computing and Printing Resources](https://astro.psu.edu/local-resources/computing)
+- [ECoS IT](http://it.science.psu.edu/)
 
 ## Our group machines
 - sagan:  On Eric's desk (has sagan1 RAID array)
