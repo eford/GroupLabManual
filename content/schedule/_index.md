@@ -15,13 +15,38 @@ lastmodifierdisplayname = "Eric Ford"
 +++
 
 ## Spring 2019
-- January 7:  
-   + Angie: AstroData 2020
-   + Zhao:  TESS Asteroseismic Group
-   + Eric:  Group Website
+
+January 7:  
+
+   + TESS Asteroseismic Group update (Zhao)
+   + Travel Reports:
+      - AstroData 2020 (Angie)
+   + New Group Website Demo (Eric)
    + All:  Scheduling
 
-- Next meeting:
-   + Angie: TESS Projects
+Feb 5 (3:30-4:45, Davey 441)
+
+   + Research Update:
+      - Angie: TESS Projects
+   + Travel Reports:
+      - Simons Math+X Symposium on Inverse Problems & Deep Learning (Zhao)
+      - Microlensing Meeting (Eric)
+
+Feb 19 (3:30-4:45,  Davey 441)
+
+
+March 5 (3:30-4:45, Davey 441)
+
+   + Spring break, likely to cancel/reschedule
+
+March 19 (3:30-4:45, Davey 441)
+
+
+April 2 (noon-5pm)
+
+   + CEHW 10th Anniversary
+
+April 16 (3:30-4:45, Davey 441)
+ 
 
 
