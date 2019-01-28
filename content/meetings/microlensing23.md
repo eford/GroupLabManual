@@ -1,7 +1,7 @@
 +++
 title = "Microlensing 23"
 date = "27 Jan 2019"
-type = "slides"
+type = "page"
 hidden = true
 weight = 20190128
 +++
@@ -62,6 +62,57 @@ ___
 - Each planet follows (nearly) Keplerian orbits
 
 ---
+
+## Explore
+
+vs
+
+## Exploit
+
+___
+
+## Explore
+
+- Brute force search over 1-3 key parameters
+- Parallelizes very efficiently
+___
+
+## Explore
+
+- RV/TTV: Orbital periods 
+- Microlensing?  
+   + Time of event
+   + Linear trajectory
+
+___
+
+## Exploit
+
+- Find optima: Itterative optimizer
+- Sample near optima: MCMC
+- Marginalize around optima: Importance Sampling
+
+---
+### Explore:  Make most of each evaluation
+
+Linear or nearly linear parameters
+- Optimize w/ linear algebra
+- Margainlize w/ Laplace approximation
+
+___
+### Explore:  Make most of each evaluation
+
+Choose parameterization that results in likelihood being nearly linear function of some parameters
+
+___
+### Explore: Make most of each evaluation
+
+1 or 2 non-linear parameters
+- Optimize itteratively 
+- Marginalize via quadrature
+
+---
+### Exploit:  
 
 
 
