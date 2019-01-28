@@ -2,7 +2,7 @@
 title = "Contribute to this site"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-weight = 2000
+weight = 9000
 hidden = false
 
 # Creator's Display name

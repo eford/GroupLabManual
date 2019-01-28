@@ -2,7 +2,7 @@
 title = "Professional Development Resources"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-weight = 1000
+weight = 6000
 
 # Creator's Display name
 creatordisplayname = "Eric Ford"
