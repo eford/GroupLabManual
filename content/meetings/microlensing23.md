@@ -32,6 +32,14 @@ Center for Computational Astrophysics
 
 ---
 
+## Questions posted
+
+- How to efficiently search a complex (non-Gaussian) multi-variate parameter space?
+- How to weight degenerate solutions?
+- Efficient computational methods for solving the triple lens equation.
+
+
+---
 ## Challenge:  Multi-modal likelihood
 
 - Multiple local maxima
@@ -102,7 +110,7 @@ ___
 
 Brute force search
 - Parallelizes efficiently
-- GPUs (if high compute per memory load)
+- GPUs offer >100x speedup (if high compute per memory load)
 ___
 ### Linear (or nearly linear) parameters
 - Optimize analytically w/ linear algebra
@@ -169,7 +177,7 @@ Heirarchy of parameters
    - Noise model
 
 ___
-## Example: Transit Photometry
+## Example: Transit Timing Variations
 
 Heirarchy of parameters
 - Key parameters:
@@ -187,8 +195,8 @@ ___
 ## Explore:  Physical Intuition
 
 Fast model evaluation
-- Density of sampling in period
-- 1 Physical model, many viewing geometries
+- Density of sampling (e.g., in periods)
+- One Physical model... many viewing geometries
 - Small eccenricity approximation
 
 ---
@@ -217,7 +225,10 @@ ___
 
 Artisinal MCMC proposals
 - Use physically motivated proposals for correlated parameters (Ford 2005)
+   - Useful when nearly degeneracies
+   - Multiple parameterizations for multiple regimes.
 - Enable jumps between few known modes (Hu+ 2014)
+- Be extra careful to use well-motivated priors
 ___
 ## Exploit: Posterior Sampling
 
@@ -225,6 +236,9 @@ Workhorse algorithms
 - Ensemble samplers (D~10s)
    - Differential Evolution MCMC (ter Braak 2006; Nelson+ 2013)
    - Affine invariant ensemble sampler (Goodman & Weare 2010)
+
+Often "good enough" and saves expert from spending time to design artisinal MCMC proposals
+
 ___
 ## Exploit: Posterior Sampling
 
@@ -232,13 +246,36 @@ Workhorse algorithms
 - Geometric samplers (large D)
    - HMC + No U-Turn Sampler (NUTS; Hoffman & Gelman 2014)
    - Geometric Adaptive Monte Carlo (Tuchow+ 2019)
----
+___
+## Exploit: Posterior Sampling
 
+Combine:
+- Artisinal proposals (e.g., between modes)
+- Ensemble samplers (most important parameters)
+- Geometric samplers (e.g., nuisance parameters)
+
+___
+## Exploit: Posterior Sampling
+
+Warnings:
+- Posterior width depends on measurement uncertainties
+- Correlated noise affects location of posterior mode
+
+___
+## Exploit: Posterior Sampling
+
+Suggestions:
+- Report what you measure well (even if it's not what physicists want)
+- Particularly important for summmary statistics
+- Can avoid some biases
+   - e & omega vs e sin(omega) & e cos(omega)
+   - Similar for inclinations
+---
 ## How many planets?
 ___
 ## How many planets?
 
-From Astronomer intuition to Bayesian model comparison
+From Astronomer intuition to Bayesian model comparison...
 - Requires accurate noise model
 - Better to marginalize over noise model parameters than guess wrong
   - "Jitter parameter"
@@ -246,6 +283,7 @@ From Astronomer intuition to Bayesian model comparison
 ___
 
 ## Bayesian Model Comparison
+
 - In general, computationally very expensive
 - AIC or BIC are merely heuristics
 ___
@@ -291,11 +329,41 @@ ___
 ## Heirarchical Bayesian Models
 
 - Probabilistic programming languages good for prototyping
-   - JAGS
-   - STAN
-   - Turing.jl
+   - JAGS (probably too restrictive for microlensing models)
+   - STAN (flexible, heavily templatized C++)
+   - Turing.jl (flexible, easier to implement thanks to Julia)
+
+___
+## Heirarchical Bayesian Models
+
+- Survey may be homogeneous
+- Astrophysical complexity
+
+___
+## Heirarchical Bayesian Models
+
 - Incorporating complex survey details can be difficult
-   - Approximate Bayesian Computing
+- Approximate Bayesian Computing
+   - Allows for complex physics, survey practicalities
+   - Can gradually build model complexity
+   - Enables testingn sensitivity to unmodeled complexities
+
+---
+## Towards Reproducibile Science
+
+___
+## Towards Reproducibile Science
+- Report what you measure well
+- Report more than summary statistics
+- Share posterior distribution (ideally labeled with ln prior & ln likelihood)
+- Plan for codes to be shared
+___
+## Towards Reproducibile Science
+
+Experimental design matters
+- Simulations should inform key decissions
+- Use algorithmic observing strategies (most of the time)
+- Document decisions (esp. deviations)
 
 ---
 # Questions?
