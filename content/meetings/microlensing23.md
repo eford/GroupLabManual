@@ -115,7 +115,7 @@ Brute force search
 ___
 ### Linear (or nearly linear) parameters
 - Optimize analytically w/ linear algebra
-- Margainlize w/ Laplace approximation
+- Marginalize w/ Laplace approximation
 
 ___
 ### Other non-linear parameters
