@@ -261,9 +261,11 @@ Combine:
 ___
 ## Exploit: Posterior Sampling
 
+Weighting of degenerate solutions comes out naturally
+
 Warnings:
 - Posterior width depends on measurement uncertainties
-- Correlated noise affects location of posterior mode
+- Correlated noise also affects weighting and location of posterior modes
 
 ___
 ## Exploit: Posterior Sampling
