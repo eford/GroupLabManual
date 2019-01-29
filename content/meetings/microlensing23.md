@@ -279,6 +279,8 @@ Suggestions:
 ---
 ## How many planets?
 ___
+## How many planets does the data provide strong evidence for?
+___
 ## How many planets?
 
 From Astronomer intuition to Bayesian model comparison...
@@ -292,6 +294,7 @@ ___
 
 - In general, computationally very expensive
 - AIC or BIC are merely heuristics
+   - Unlikely asymptotics apply to your data
 ___
 ## Bayesian Model Comparison
 - Laplace approximation
