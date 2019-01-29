@@ -100,7 +100,7 @@ ___
 
 ## Explore:  Physical intution
 
-Heirarchy of parameters
+Hierarchy of parameters
 - 1-3 key multi-modal parameters
 - Secondary non-linear parameters
 - (Nearly) linear parameters
@@ -125,7 +125,7 @@ ___
 ___
 ## Explore:  Physical intution
 
-Heirarchy of parameters
+Hierarchy of parameters
 - 1-3 key parameters:
    - Brute force
 - Non-linear parameters:
@@ -140,7 +140,7 @@ Heirarchy of parameters
 
 ## Example: RV (Keplerian Orbits)
 
-Heirarchy of parameters
+Hierarchy of parameters
 
 - Key parameters:
    - Orbital Period(s)
@@ -155,7 +155,7 @@ ___
 
 ## Example: RV (Epicycle Approximation)
 
-Heirarchy of parameters
+Hierarchy of parameters
 - Key parameters:
    - Orbital Period(s)
 - Linear parameters:
@@ -168,7 +168,7 @@ ___
 
 ## Example: Transit Photometry
 
-Heirarchy of parameters
+Hierarchy of parameters
 - Key parameters:
    - Orbital period
    - Orbital phase
@@ -182,7 +182,7 @@ Heirarchy of parameters
 ___
 ## Example: Transit Timing Variations
 
-Heirarchy of parameters
+Hierarchy of parameters
 - Key parameters:
    - Orbital periods
    - Orbital phases
@@ -201,7 +201,8 @@ Fast model evaluation
 - Density of sampling (e.g., in periods)
 - One Physical model... many viewing geometries
 - Small eccenricity approximation
-
+- Small mutual inclination approximation
+-
 ---
 ## Exploit
 
@@ -236,9 +237,9 @@ ___
 ## Exploit: Posterior Sampling
 
 Workhorse algorithms
-- Ensemble samplers (D~10s)
-   - Differential Evolution MCMC (ter Braak 2006; Nelson+ 2013)
-   - Affine invariant ensemble sampler (Goodman & Weare 2010)
+- Ensemble samplers (D ~ 10's)
+- Differential Evolution MCMC (ter Braak 2006; Nelson+ 2013)
+- Affine invariant ensemble sampler (Goodman & Weare 2010)
 
 Often "good enough" and saves expert from spending time to design artisinal MCMC proposals
 
@@ -247,8 +248,8 @@ ___
 
 Workhorse algorithms
 - Geometric samplers (large D)
-   - HMC + No U-Turn Sampler (NUTS; Hoffman & Gelman 2014)
-   - Geometric Adaptive Monte Carlo (Tuchow+ 2019)
+- HMC + No U-Turn Sampler (NUTS; Hoffman & Gelman 2014)
+- Geometric Adaptive Monte Carlo (Tuchow+ 2019)
 ___
 ## Exploit: Posterior Sampling
 
@@ -306,7 +307,7 @@ Lessons learned
 - Validate codes
 - Do not trust internal errors estimates
 - Plan for uncertainty in evidence estimates
-
+- Perform sensitivity tests
 ___
 ## Extremely Precise RV Evidence Challenge
 
@@ -323,13 +324,13 @@ Nelson+ 2019
 ___
 ## Characterizing Planet Populations
 ___
-## Heirarchical Bayesian Models
+## Hierarchical Bayesian Models
 
 - High-dimensional
 - Priors can be surprisingly important
 
 ___
-## Heirarchical Bayesian Models
+## Hierarchical Bayesian Models
 
 - Probabilistic programming languages good for prototyping
    - JAGS (probably too restrictive for microlensing models)
@@ -337,13 +338,13 @@ ___
    - Turing.jl (flexible, easier to implement thanks to Julia)
 
 ___
-## Heirarchical Bayesian Models
+## Hierarchical Bayesian Models
 
 - Survey may be homogeneous
 - Astrophysical complexity
 
 ___
-## Heirarchical Bayesian Models
+## Hierarchical Bayesian Models
 
 - Incorporating complex survey details can be difficult
 - Approximate Bayesian Computing
