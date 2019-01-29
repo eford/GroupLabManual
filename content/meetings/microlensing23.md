@@ -89,6 +89,7 @@ ___
 ## Explore:  Physical intution
 
 Full model:  N-body
+
 Surrogate models:
 - Keplerian orbits
 - Epicycle approximation
@@ -133,7 +134,7 @@ Heirarchy of parameters
 - (Nearly) linear parameters:
    - Optimize analytically, or
    - Integration via Laplace approximation
-___
+---
 
 ## Example: RV (Keplerian Orbits)
 
