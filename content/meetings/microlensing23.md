@@ -361,8 +361,13 @@ ___
 ## Towards Reproducibile Science
 - Report what you measure well
 - Report more than summary statistics
-- Share posterior distribution (ideally labeled with ln prior & ln likelihood)
-- Plan for codes to be shared
+- If degeneracies, report mixture model as approximation to posterior
+
+___
+## Towards Reproducibile Science
+- Share posterior distributions
+- Ideally labeled with log prior & log likelihood (perhaps multiple terms)
+- Plan for both data & codes to be shared
 ___
 ## Towards Reproducibile Science
 
