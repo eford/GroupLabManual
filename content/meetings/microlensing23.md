@@ -104,7 +104,7 @@ Heirarchy of parameters
 - 1-3 key multi-modal parameters
 - Secondary non-linear parameters
 - (Nearly) linear parameters
-
+- Nuisance parameters
 
 ___
 ### Key multi-modal parameters
@@ -134,6 +134,8 @@ Heirarchy of parameters
 - (Nearly) linear parameters:
    - Optimize analytically, or
    - Integration via Laplace approximation
+- Nuisance parameters
+
 ---
 
 ## Example: RV (Keplerian Orbits)
@@ -187,7 +189,7 @@ Heirarchy of parameters
 - Non-linear parameters:
    - Masses
    - Eccentricity vectors
-- Insensitive parameters:
+- Nuisance parameters:
    - Inclinations
    - Nodes
 
