@@ -147,7 +147,7 @@ Heirarchy of parameters
    - Instrumental offsets
 - Non-linear parameters:
    - Eccentricities
-   - Orbital Phases
+   - One angle per planet
    - Noise model
 ___
 
