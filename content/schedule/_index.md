@@ -7,11 +7,13 @@ weight = 2000
 ## Upcoming: Spring 2019
 
 Feb 19 (3:30-4:45,  Davey 441)
-      - Danely: Occurence Rates paper?
+
+   + Research Update:
+      - Danely: [Occurence Rates paper](https://arxiv.org/abs/1902.01417)
    + Travel Updates
       - [CHEXO](http://chexo.org/)
    + Professional Development Topics
-      - Requests
+      - Open to Requests
 
 March 5 (3:30-4:45, Davey 441)
 
