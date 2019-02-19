@@ -6,18 +6,11 @@ weight = 2000
 
 ## Upcoming: Spring 2019
 
-Feb 19 (3:30-4:45,  Davey 441)
-
-   + Research Update:
-      - Danely: [Occurence Rates paper](https://arxiv.org/abs/1902.01417)
-   + Travel Updates
-      - [CHEXO](http://chexo.org/)
-   + Professional Development Topics
-      - Open to Requests
-
 March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
    + Research Update:
-   + Daniel
+      - Daniel
+   + Professional Development Topics
+      - Requests?
 
 March 26 (3:30-4:45, Davey 441)
    + Research Update:
@@ -60,3 +53,12 @@ Feb 5 (3:30-4:45, Davey 441)
       - Simons Math+X Symposium on Inverse Problems & Deep Learning (Zhao)
       - Microlensing Meeting (Eric)
 
+Feb 19 (3:30-4:45,  Davey 441)
+
+   + Research Update:
+      - Danely: [Occurence Rates paper](https://arxiv.org/abs/1902.01417)
+   + Travel Updates
+      - [CHEXO](http://chexo.org/)
+      - AAAS: Christian
+   + Professional Development Topics
+      - Congress & Astronomy funding
