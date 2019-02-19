@@ -15,21 +15,29 @@ Feb 19 (3:30-4:45,  Davey 441)
    + Professional Development Topics
       - Open to Requests
 
-March 5 (3:30-4:45, Davey 441)
-
-   + Spring break, Reschedule
-
-March 19 (3:30-4:45, Davey 441)
+March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
    + Research Update:
-      - Angie: TESS Projects?
-      - Volunteers?
+   + Daniel
 
+March 26 (3:30-4:45, Davey 441)
+   + Research Update:
+   + Travel Updates
+      - Angie: Kepler & K2 SciCon
+      - Danley: Inference Free WOrkshop
+   + Professional Development Topics
+      - Angie: Feedback from colloquia
+
+April 1 
+   + ICS Symposium
 
 April 2 (noon-5pm)
-
    + CEHW 10th Anniversary
 
-April 16 (3:30-4:45, Davey 441)
+April 9 (3:30-4:45, Davey 441)
+   + Research Update:
+      - Angie: TESS Projects
+
+April 23 (3:30-4:45, Davey 441)
  
 
 ## Previous
