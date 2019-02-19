@@ -14,6 +14,34 @@ lastmodifierdisplayname = "Eric Ford"
 #lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
+## Upcoming: Spring 2019
+
+Feb 19 (3:30-4:45,  Davey 441)
+   + Research Update:
+      - Volunteers?
+      - Angie: TESS Projects?
+      - Danely: Occurence Rates paper?
+   + Travel Updates
+      - [CHEXO](http://chexo.org/)
+   + Professional Development Topics
+      - Requests
+
+March 5 (3:30-4:45, Davey 441)
+
+   + Spring break, Reschedule
+
+March 19 (3:30-4:45, Davey 441)
+
+
+April 2 (noon-5pm)
+
+   + CEHW 10th Anniversary
+
+April 16 (3:30-4:45, Davey 441)
+ 
+
+## Previous
+
 ## Spring 2019
 
 January 7:  
@@ -31,22 +59,4 @@ Feb 5 (3:30-4:45, Davey 441)
    + Travel Reports:
       - Simons Math+X Symposium on Inverse Problems & Deep Learning (Zhao)
       - Microlensing Meeting (Eric)
-
-Feb 19 (3:30-4:45,  Davey 441)
-
-
-March 5 (3:30-4:45, Davey 441)
-
-   + Spring break, likely to cancel/reschedule
-
-March 19 (3:30-4:45, Davey 441)
-
-
-April 2 (noon-5pm)
-
-   + CEHW 10th Anniversary
-
-April 16 (3:30-4:45, Davey 441)
- 
-
 
