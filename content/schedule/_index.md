@@ -4,7 +4,7 @@ type="page"
 weight = 2000
 +++
 
-## Upcoming: Spring 2019
+Upcoming Group Meetings and other Events
 
 #### March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
 
