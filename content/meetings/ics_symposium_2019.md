@@ -18,5 +18,6 @@ lastmodifierdisplayname = "Eric Ford"
 
 ## People going from Penn State
 - Eric: organizing panel
+- Angie
 
 
