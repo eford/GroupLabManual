@@ -6,7 +6,7 @@ weight = 2000
 
 ## Upcoming: Spring 2019
 
-March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
+#### March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
 
 - Research Update:
    - Daniel
@@ -39,4 +39,4 @@ March 12 (3:30-4:45, Davey 441)  CHECK ROOMS
  
 
 ## Previous
-- [2019](2019.md)
+- [2019](2019)
