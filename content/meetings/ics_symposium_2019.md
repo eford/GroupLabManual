@@ -1,6 +1,5 @@
 +++
 title = "ICS Symposium 2019"
-# Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
 weight = 20190401
 +++
