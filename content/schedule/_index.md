@@ -6,10 +6,6 @@ weight = 2000
 
 Upcoming Group Meetings and other Events
 
-{{% notice note %}}
-Need to Deanna to confirm room avaliablity for date shift
-{{% /notice %}}
-
 #### March 12 (3:30-4:45, Davey 441)  
 
 - Research Update:
