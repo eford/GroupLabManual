@@ -5,6 +5,7 @@ weight = 2000
 +++
 
 Upcoming Group Meetings and other Events
+[Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
 #### March 12 (3:30-4:45, Davey 441)  
 
