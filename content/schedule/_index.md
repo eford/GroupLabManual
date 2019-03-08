@@ -7,10 +7,10 @@ weight = 2000
 Upcoming Group Meetings and other Events
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
-#### March 12 (3:30-4:45, Davey 441)  
+#### March 13 (3:45-5:00, Davey 441)  ***Wednesday***
 
 - Research Update:
-   - Daniel
+   - Daniel:  [Planet-planet scattering as the source of the highest eccentricity exoplanets](https://arxiv.org/abs/1903.02564)
 - Professional Development Topics
    - Requests?
 
