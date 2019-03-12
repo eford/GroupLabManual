@@ -12,6 +12,7 @@ Upcoming Group Meetings and other Events
 - Research Update:
    - Daniel:  [Planet-planet scattering as the source of the highest eccentricity exoplanets](https://arxiv.org/abs/1903.02564)
 - Professional Development Topics
+   - [Astro 2020 White papers](http://sites.nationalacademies.org/BPA/BPA_050603)
    - Requests?
 
 #### March 26 (3:30-4:45, Davey 441)
