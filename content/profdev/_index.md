@@ -1,22 +1,11 @@
 +++
 title = "Professional Development Resources"
-# Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
 weight = 6000
-
-# Creator's Display name
-creatordisplayname = "Eric Ford"
-# Creator's Email
-#creatoremail = "ebf11 at psu dot edu"
-# LastModifier's Display name
-lastmodifierdisplayname = "Eric Ford"
-# LastModifier's Email
-#lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## Tips from other group members
 {{% children depth="1" %}}
-
 
 ## Lists of Meetings
 - [International Astronomy Meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
@@ -26,6 +15,10 @@ lastmodifierdisplayname = "Eric Ford"
 
 ## Links to PSU sites
 - [PSU Astro Graduate Handbook](https://astro.psu.edu/images/pdfs/Graduate-Student-Handbook-2)
+
+## Links to Proposal Opportunities
+- [ROSES 2018](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=604138/solicitationId=%7B269E574F-3BCA-0221-96A6-AFA618145EE4%7D/viewSolicitationDocument=1/Table%202%202018%20amend71.html) including "second calls" extending into 2019.
+- [ROSES 2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=660371/solicitationId=%7BABB576B8-F844-25E0-AD23-9E94AAC04AE1%7D/viewSolicitationDocument=1/Table%202%202019.html)
 
 ## Links to external sites
 
