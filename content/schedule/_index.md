@@ -18,7 +18,7 @@ Upcoming Group Meetings and other Events
 #### April 9 (3:30-4:45, Davey 441)
 
 + Research Update:
-   - Angie: TESS Projects
+   - Angie: TESS Autoregressive Planet Search
    - Zhao:  Modeling RVs + Tellurics
 + Professional Development:
    - Mentoring undergraduates (Angie got a request for Fall 2019)
