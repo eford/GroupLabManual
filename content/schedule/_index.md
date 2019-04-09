@@ -20,6 +20,8 @@ Upcoming Group Meetings and other Events
 + Research Update:
    - Angie: TESS Projects
    - Zhao:  Modeling RVs + Tellurics
++ Professional Development:
+   - Mentoring undergraduates (Angie got a request for Fall 2019)
 
 #### April 23 (3:30-4:45, Davey 441)
    - Brianna: Planet formation
