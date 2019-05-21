@@ -9,9 +9,9 @@ creatordisplayname = "Eric Ford"
 # Creator's Email
 #creatoremail = "ebf11 at psu dot edu"
 # LastModifier's Display name
-lastmodifierdisplayname = "Eric Ford"
+lastmodifierdisplayname = "Angie Wolfgang"
 # LastModifier's Email
-#lastmodifieremail = "ebf11 at psu dot edu"
+#lastmodifieremail = "akw5014 at psu dot edu"
 +++
 
 # [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/)
