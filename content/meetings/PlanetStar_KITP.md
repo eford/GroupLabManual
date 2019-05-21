@@ -8,7 +8,7 @@ weight = 20190520
 
 May 20-24, 2019
 
-Kavli Institute for Theoretical Physics, Santa Barbara
+Kavli Institute for Theoretical Physics, UCSB, Santa Barbara, CA
 
 [All talks recorded and slides posted here](http://online.kitp.ucsb.edu/online/exostar_c19/)
 
