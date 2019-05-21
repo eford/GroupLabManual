@@ -7,22 +7,6 @@ weight = 2000
 Upcoming Group Meetings and other Events
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
-#### March 12 (3:30-4:45, Davey 441)  
-
-- Research Update:
-   - Daniel
-- Professional Development Topics
-   - Requests?
-
-#### March 26 (3:30-4:45, Davey 441)
-
-- Research Update:
-- Travel Updates
-   - Angie: Kepler & K2 SciCon
-   - Danley: Inference Free WOrkshop
-- Professional Development Topics
-   - Angie: Feedback from colloquia
-
 #### April 1 
 
 + ICS Symposium
@@ -34,10 +18,14 @@ Upcoming Group Meetings and other Events
 #### April 9 (3:30-4:45, Davey 441)
 
 + Research Update:
-   - Angie: TESS Projects
+   - Angie: TESS Autoregressive Planet Search
+   - Zhao:  Modeling RVs + Tellurics
++ Professional Development:
+   - Mentoring undergraduates (Angie got a request for Fall 2019)
 
 #### April 23 (3:30-4:45, Davey 441)
+   - Brianna: Planet formation
+   - Christian:  Modeling RVs & Activity
  
-
-## Previous
+## Previous Group Meetings
 - [2019](2019)
