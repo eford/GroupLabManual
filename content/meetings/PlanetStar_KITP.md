@@ -1,7 +1,7 @@
 +++
 title = "Planet-Star Connections in the Era of TESS and Gaia"
 type="page"
-weight = 20190304
+weight = 20190520
 +++
 
 # [Planet-Star Connections in the Era of TESS and Gaia](https://www.kitp.ucsb.edu/activities/exostar-c19)
