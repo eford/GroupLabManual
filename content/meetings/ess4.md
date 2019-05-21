@@ -16,8 +16,13 @@ lastmodifierdisplayname = "Eric Ford"
 
 # [Extreme Solar Systems IV](https://sites.northwestern.edu/iceland2019/)
 
+August 19-23, 2019
+
+Reykjavik, Iceland
+
 ## People going from Penn State
 - Eric: likely
+- Angie Wolfgang
 
 
 
