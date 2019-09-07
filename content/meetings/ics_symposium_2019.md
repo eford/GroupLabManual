@@ -7,7 +7,7 @@ weight = 20190401
 # [ICS Symposium 2019:  AI & Machine Learning in Science & Society](https://ics.psu.edu/events/ics-symposium-2019/)
 
 ## People going from Penn State
-- Eric: organizing panel
+- Eric: organizing panel on ML for science
 - Angie
-
+- Christian: **Congrats on the prize-winning research & poster!**
 

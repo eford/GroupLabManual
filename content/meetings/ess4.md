@@ -20,10 +20,9 @@ August 19-23, 2019
 
 Reykjavik, Iceland
 
-## People going from Penn State
-- Eric: likely
+### People going from Penn State
+- Eric
+- Christian Gilbertson
+- Matthias He
 - Angie Wolfgang
-
-
-
 
