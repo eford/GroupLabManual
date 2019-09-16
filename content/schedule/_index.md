@@ -50,7 +50,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Oct 18, 11am-noon in Davey 432
 - Nov 1, 11am-noon in Davey 432
 - Nov 15, 11am-noon in Davey 432
-- Nov 29, 11am-noon in Davey 432
+- Nov 29, No meeting due to Thanksgiving holiday
 - Dec 13, 11am-noon in Davey 432
 - Jan 10, 11am-noon in Davey 432
 
