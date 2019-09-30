@@ -29,5 +29,3 @@ lastmodifierdisplayname = "Eric Ford"
 - [PSU Research Computing Services](http://researchcomputing.psu.edu/)
 - http://rcci.psu.edu/
 - https://alerts.it.psu.edu/
-
-

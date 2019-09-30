@@ -10,17 +10,15 @@ weight = 2000
 {{% /notice %}}
 
 
-## Sept 10, 2-2:30 in Davey 432
-- Welcome/Introductions
-	- Alex Wise
-- Short Research Updates
-	- Any Volunteers?
-- Travel Updates?
+## Oct 1, 2-2:30 in Davey 432
+- Research updates?
+- Travel Reports
+	- EPRV WG (Eric)
+	- Anyone else?
 - Professional Development Topics
-	- Proposal writing (e.g., NSF GRF applications)
+	- Effective meetings
 	- Any other requests?
 
-## Oct 1, 2-2:30 in Davey 432
 
 ## Oct 15, 2-2:30 in Davey 432
 
@@ -70,5 +68,3 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 ------------------------------
 # Previous Ford Group Meeting Agendae
 - [2019](2019)
-
-
