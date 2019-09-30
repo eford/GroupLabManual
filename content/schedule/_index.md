@@ -13,6 +13,7 @@ weight = 2000
 ## Oct 1, 2-2:30 in Davey 432
 - Research updates?
 - Travel Reports
+  - Dynamics of the Sun and Star (Zhao)
 	- EPRV WG (Eric)
 	- Anyone else?
 - Professional Development Topics
