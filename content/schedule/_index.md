@@ -10,18 +10,12 @@ weight = 2000
 {{% /notice %}}
 
 
-## Oct 1, 2-2:30 in Davey 432
-- Research updates?
-- Travel Reports
-  - Dynamics of the Sun and Star (Zhao)
-	- EPRV WG (Eric)
-	- Anyone else?
-- Professional Development Topics
-	- Effective meetings
-	- Any other requests?
-
-
 ## Oct 15, 2-2:30 in Davey 432
+Oct 15, 2-3:30 in Davey 432
+- Professional Development Topics
+   - Proposal Writing, Part II (NSF applications due soon)
+- Travel Reports?
+- Research update?
 
 ## Oct 29, 2-2:30 in Davey 432
 
