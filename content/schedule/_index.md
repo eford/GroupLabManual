@@ -60,7 +60,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Tuesdays 3:30-5 NEID Science meeting
 - Tuesdays 4-5 Geosciences Colloquium
 - Thursdays 1:30-2:30  Bekki Group Meeting
-- Thursdays 3:30-5 Suvrath Group Meeting (TBC)
+- Thursdays 3-5 Suvrath Group Meeting 
 - Thursdays 3:45-5 Physics Colloquium
 - Fridays 10-11 Stochastic Modeling & Computation Seminar
 - Fridays 3-5 Jason Group Meeting
