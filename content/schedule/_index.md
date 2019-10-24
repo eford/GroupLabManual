@@ -10,13 +10,14 @@ weight = 2000
 {{% /notice %}}
 
 
-## Oct 15, 2:15-2:30 in Davey 432
-- Professional Development Topics
-   - Proposal Writing, Part II (NSF applications due soon)
-
-## Oct 29, 2-2:30 in Davey 432
+## Oct 29
+- Canceled, so people can participate in the science writing seminar
 
 ## Nov 12, 2-2:30 in Davey 432
+- Travel Reports
+   - AAC (Danley)
+- Professional Development Topics
+   - Suggestions?
 
 ## Dec 10, 2-2:30 in Davey 432
 
