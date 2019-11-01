@@ -15,8 +15,9 @@ weight = 2000
 
 ## Nov 12, 2-2:30 in Davey 432
 - Travel Reports
-   - AAC (Danley)
+   - AAC (Danley))
 - Professional Development Topics
+   - [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BE16CD59F-29DD-06C0-8971-CE1A9C252FD4%7D&path=&method=init)
    - Suggestions?
 
 ## Dec 10, 2-2:30 in Davey 432
