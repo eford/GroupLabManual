@@ -14,8 +14,11 @@ weight = 2000
 - Canceled, so people can participate in the science writing seminar
 
 ## Nov 12, 2-2:30 in Davey 432
+- ICS -> ICDS Questions
 - Travel Reports
-   - AAC (Danley))
+   - AAC (Danley)
+- Research Updates
+   - Michael Palumbo
 - Professional Development Topics
    - [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BE16CD59F-29DD-06C0-8971-CE1A9C252FD4%7D&path=&method=init)
    - Suggestions?
