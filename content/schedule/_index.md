@@ -9,21 +9,13 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-
-## Oct 29
-- Canceled, so people can participate in the science writing seminar
-
-## Nov 12, 2-2:30 in Davey 432
-- ICS -> ICDS Questions
-- Travel Reports
-   - AAC (Danley)
-- Research Updates
-   - Michael Palumbo
-- Professional Development Topics
-   - [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BE16CD59F-29DD-06C0-8971-CE1A9C252FD4%7D&path=&method=init)
-   - Suggestions?
-
 ## Dec 10, 2-2:30 in Davey 432
+- Travel Reports
+  - [JHU IDIES](http://idies.jhu.edu/) (Eric)
+- Professional Development Topics
+  - Requests?
+- Research Update
+  - Christian
 
 ------------------------------
 
@@ -44,8 +36,6 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Oct 4, 11am-noon in Davey 432
 - Oct 18, 11am-noon in Davey 432
 - Nov 1, 11am-noon in Davey 432
-- Nov 15, 11am-noon in Davey 432
-- Nov 29, No meeting due to Thanksgiving holiday
 - Dec 13, 11am-noon in Davey 432
 - Jan 10, 11am-noon in Davey 432
 
@@ -56,7 +46,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Tuesdays 3:30-5 NEID Science meeting
 - Tuesdays 4-5 Geosciences Colloquium
 - Thursdays 1:30-2:30  Bekki Group Meeting
-- Thursdays 3-5 Suvrath Group Meeting 
+- Thursdays 3-5 Suvrath Group Meeting
 - Thursdays 3:45-5 Physics Colloquium
 - Fridays 10-11 Stochastic Modeling & Computation Seminar
 - Fridays 3-5 Jason Group Meeting
