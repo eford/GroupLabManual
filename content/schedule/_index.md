@@ -11,13 +11,18 @@ weight = 2000
 
 
 ## Oct 29
-- Canceled, so people can participate in the science writing seminar
+- Group meeting replaced with science communication seminar by Dr. Kimberly Cartier.
+- Kim graduated from Penn State with her PhD in 2017, and is a writer and production associate for Earth and Space Science News.
+- Are you a science communicator? No? Are you sure about that? Science communication weaves its way through just about every aspect of being a scientist. But few graduate programs actually teach their students how to do it. I'm going to present a few foundational aspects of communicating science—yours or someone else's—that will help you get your message across to the intended people in a clear and effective way. After, there will be Q&A and a discussion about putting these principles into practice in your career, be it as an academic, a science journalist like me, or anything under the sky.
 
 ## Nov 12, 2-2:30 in Davey 432
 - Travel Reports
    - AAC (Danley)
 - Professional Development Topics
+   - Taking time off around holidays  
    - Suggestions?
+- Research Updates
+   - Michael 
 
 ## Dec 10, 2-2:30 in Davey 432
 
@@ -52,7 +57,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Tuesdays 3:30-5 NEID Science meeting
 - Tuesdays 4-5 Geosciences Colloquium
 - Thursdays 1:30-2:30  Bekki Group Meeting
-- Thursdays 3-5 Suvrath Group Meeting 
+- Thursdays 3-5 Suvrath Group Meeting
 - Thursdays 3:45-5 Physics Colloquium
 - Fridays 10-11 Stochastic Modeling & Computation Seminar
 - Fridays 3-5 Jason Group Meeting
