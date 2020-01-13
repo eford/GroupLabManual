@@ -9,6 +9,7 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
+<<<<<<< HEAD
 
 ## Oct 29
 - Group meeting replaced with science communication seminar by Dr. Kimberly Cartier.
@@ -16,15 +17,24 @@ weight = 2000
 - Are you a science communicator? No? Are you sure about that? Science communication weaves its way through just about every aspect of being a scientist. But few graduate programs actually teach their students how to do it. I'm going to present a few foundational aspects of communicating science—yours or someone else's—that will help you get your message across to the intended people in a clear and effective way. After, there will be Q&A and a discussion about putting these principles into practice in your career, be it as an academic, a science journalist like me, or anything under the sky.
 
 ## Nov 12, 2-2:30 in Davey 432
+=======
+## Dec 10, 2-2:30 in Davey 432
+>>>>>>> b39d0242e640676a8dab0446d2f233587094e9b5
 - Travel Reports
-   - AAC (Danley)
+  - [JHU IDIES](http://idies.jhu.edu/) (Eric)
 - Professional Development Topics
+<<<<<<< HEAD
    - Taking time off around holidays  
    - Suggestions?
 - Research Updates
    - Michael 
 
 ## Dec 10, 2-2:30 in Davey 432
+=======
+  - Requests?
+- Research Update
+  - Christian
+>>>>>>> b39d0242e640676a8dab0446d2f233587094e9b5
 
 ------------------------------
 
@@ -45,8 +55,6 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Oct 4, 11am-noon in Davey 432
 - Oct 18, 11am-noon in Davey 432
 - Nov 1, 11am-noon in Davey 432
-- Nov 15, 11am-noon in Davey 432
-- Nov 29, No meeting due to Thanksgiving holiday
 - Dec 13, 11am-noon in Davey 432
 - Jan 10, 11am-noon in Davey 432
 
