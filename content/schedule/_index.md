@@ -1,10 +1,10 @@
 +++
-title = "Schedule"
+title = "Schedule for Group Meetings"
 type="page"
 weight = 2000
 +++
 
-# Full Ford Group Meetings
+# Ford Group Meetings (full group, focused on professional development)
 {{% notice tip %}}
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
@@ -50,6 +50,10 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - April 24, 11am-noon in Davey 432
 - May  1, 11am-noon in Davey 432
 
+------------------------------
+
+# SysSim Group meetings
+- Most Fridays, 2-3pm during Spring 2020 via Zoom
 
 ------------------------------
 ## Regular Seminars & Other CEHW Faculty Group Meetings

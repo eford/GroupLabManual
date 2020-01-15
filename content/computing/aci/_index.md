@@ -1,5 +1,5 @@
 +++
-title = "ICS-ACI Systems"
+title = "ICDS-ACI Systems"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
 weight = 100
@@ -17,12 +17,10 @@ lastmodifierdisplayname = "Eric Ford"
 ## Tips from our Group Members
 {{% children depth="2" %}}
 
-## Links to ICS-ACI Documentation
+## Links to ICDS-ACI Documentation
 
-- [Getting Started on ICS-ACI](/lessons/week1/how-to-use-aci)
-- [ICS-ACI User's Guide](https://ics.psu.edu/computing-services/ics-aci-user-guide/)
-- [ICS-ACI Training Series](https://ics.psu.edu/computing-services/ics-aci-training-series/)
-- [ICS-ACI On-demand Tutorial Videos](https://ics.psu.edu/computing-services/ics-aci-training-resources/ics-aci-on-demand-tutorial-videos/)
+- [Getting Started on ICDS-ACI](/lessons/week1/how-to-use-aci)
+- [ICDS-ACI User's Guide](https://ics.psu.edu/computing-services/ics-aci-user-guide/)
+- [ICDS-ACI Training Series](https://ics.psu.edu/computing-services/ics-aci-training-series/)
+- [ICDS-ACI On-demand Tutorial Videos](https://ics.psu.edu/computing-services/ics-aci-training-resources/ics-aci-on-demand-tutorial-videos/)
 - [Open On Demand Portal](https://www.osc.edu/resources/online_portals/ondemand) (written for OSU, but much of info is similar)
-
-

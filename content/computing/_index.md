@@ -27,5 +27,5 @@ lastmodifierdisplayname = "Eric Ford"
 - [ECoS IT](http://it.science.psu.edu/)
 - [ICS-ACI](https://ics.psu.edu/computing-services/)
 - [PSU Research Computing Services](http://researchcomputing.psu.edu/)
-- http://rcci.psu.edu/
-- https://alerts.it.psu.edu/
+- [Resarch Computing & CyberInfrastructure](http://rcci.psu.edu/) Advisory Council
+- [Penn State IT Alerts](https://alerts.it.psu.edu/)
