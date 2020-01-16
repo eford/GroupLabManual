@@ -25,8 +25,9 @@ showNotes= true
 +++
 
 ## Ford Group Resources
-- [Computing](/computing)
-- [Meetings](/meetings)
-- [Professional Development](/profdev)
+- [Computing Resources](/computing)
+- [Scientific Meetings](/meetings)
+- [Group Meeting Schedule](/schedule)
+- [Professional Development Resources](/profdev)
 
-[Learn how to Contribute to this site](/contribute)
+[Learn how to contribute to this site](/contribute)

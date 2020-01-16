@@ -23,8 +23,7 @@ lastmodifierdisplayname = "Eric Ford"
 - [ECoS IT](http://it.science.psu.edu/)
 
 ## Our group machines
-- sagan:  On Eric's desk (has sagan1 RAID array)
+- sagan:  On Eric's desk (mounts Synology NAS box/RAID array in sagan1 directory)
 - green:  On ???'s desk (has CUDA-enabled GPU)
 - shapiro:  On ???'s desk
 - another machine?
-

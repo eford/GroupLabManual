@@ -1,10 +1,10 @@
 +++
-title = "Schedule"
+title = "Schedule for Group Meetings"
 type="page"
 weight = 2000
 +++
 
-# Full Ford Group Meetings
+# Ford Group Meetings (full group, focused on professional development)
 {{% notice tip %}}
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
@@ -38,22 +38,30 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 
 - Jan 24, 11am-noon in Davey 432
 - Feb  7, 11am-noon in Davey 432
-- Feb 21, 11am-noon in Davey 432
-- March 6, 11am-noon in Davey 432
+- Feb 14, 11am-noon in Davey 432
+- Feb 28, 11am-noon in Davey 432
+- March  6, 11am-noon in Davey 432
 - March 20, 11am-noon in Davey 432
+- March 27, 11am-noon in Davey 432
 - April  3, 11am-noon in Davey 432
+- April 10, 11am-noon in Davey 432
 - April 17, 11am-noon in Davey 432
-- May 1, 11am-noon in Davey 432
-- May 15, 11am-noon in Davey 432
+- April 24, 11am-noon in Davey 432
+- May  1, 11am-noon in Davey 432
 
+------------------------------
+
+# SysSim Group meetings
+- Most Fridays, 2-3pm during Spring 2020 via Zoom
 
 ------------------------------
 ## Regular Seminars & Other CEHW Faculty Group Meetings
 - Mondays 12:10-1:10 CEHW Seminar
+- Monday 2:30-3:30  Bekki Group Meeting
 - Tuesdays 10:30-12 ICS Seminars (just a few during the semester)
 - Tuesdays 3:30-5 NEID Science meeting
 - Tuesdays 4-5 Geosciences Colloquium
-- Thursdays 1:30-2:30  Bekki Group Meeting
+- Wednesdays 3:45-4:45 Astronomy Colloquium
 - Thursdays 3-5 Suvrath Group Meeting
 - Thursdays 3:45-5 Physics Colloquium
 - Fridays 10-11 Stochastic Modeling & Computation Seminar

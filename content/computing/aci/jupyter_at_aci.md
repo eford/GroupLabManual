@@ -16,8 +16,8 @@ pdfSeparateFragments= false
 showNotes= true
 +++
 
-### Instructions for Using Julia via the Jupyter Notebook server in the ICS ACI Portal
-1.  [Setup Julia kernel to work with ICS-ACI](#setup-julia) (only needs to be done once per user)
+### Instructions for Using Julia via the Jupyter Notebook server in the ICDS ACI Portal
+1.  [Setup Julia kernel to work with ICDS-ACI](#setup-julia) (only needs to be done once per user)
 2.  [Start a Jupyter Notebook session on ACI](#start-jupyter)
 3.  [Clone your Github Repository on ACI](#clone-repo) (only need to do once per repository)
 
@@ -84,7 +84,7 @@ git config --global user.name "Your Github Id"
 ---
 <a id="start-jupyter"></a>
 ### Start a Jupyter notebook session on ACI
-Each time in the future you want to start a Jupyter notebook session on ICS-ACI
+Each time in the future you want to start a Jupyter notebook session on ICDS-ACI
 
 - Browse to portal.aci.ics.psu.edu
 - Login (if necessary)
