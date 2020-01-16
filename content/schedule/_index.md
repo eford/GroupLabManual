@@ -9,33 +9,43 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-## Jan 15, 2:30-3:30 in Davey TBD
+## Jan 15, 2:30-3:30 in Davey 441
+- Professional Development Topics
+   - Travel plans 
+
+## Jan 22, 2:30-3:30 in Davey 441
 - Travel Reports
    - AAS/ExoPAG (Matthias)
    - Asteroseismology (Zhao)
    - Others?
 - Professional Development Topics
-   - Travel plans 
+   - Strategies for effective advising
    - Requests?
 
-
-## Jan 22, 2:30-3:30 in Davey TBD
-## Feb 12, 2:30-3:30 in Davey TBD
-## Feb 26, 2:30-3:30 in Davey TBD
-## Mar  4, 2:30-3:30 in Davey TBD
-## Mar 18, 2:30-3:30 in Davey TBD
-## Apr  1, 2:30-3:30 in Davey TBD
-## Apr 15, 2:30-3:30 in Davey TBD
-## May  6, 2:30-3:30 in Davey TBD
-## May  20, 2:30-3:30 in Davey TBD
+## Feb 12, 2:30-3:30 in Davey 441
+## Feb 26, 2:30-3:30 in Davey 441
+## Mar  4, 2:30-3:30 in Davey 441
+## Mar 18, 2:30-3:30 in Davey 441
+## Apr  1, 2:30-3:30 in Davey 441
+## Apr 15, 2:30-3:30 in Davey 441
+## May  6, 2:30-3:30 in Davey 441
+## May  20, 2:30-3:30 in Davey 441
 
 ------------------------------
 
 # EPRV/Stellar Activity Group Meetings
 Please upload your slides to the relevant [box subfolder](https://psu.app.box.com/folder/73137281610) prior to meeting.
 
-- Jan 17, 11am-noon in Davey 432
 - Jan 24, 11am-noon in Davey 432
+- Feb  7, 11am-noon in Davey 432
+- Feb 21, 11am-noon in Davey 432
+- March 6, 11am-noon in Davey 432
+- March 20, 11am-noon in Davey 432
+- April  3, 11am-noon in Davey 432
+- April 17, 11am-noon in Davey 432
+- May 1, 11am-noon in Davey 432
+- May 15, 11am-noon in Davey 432
+
 
 ------------------------------
 ## Regular Seminars & Other CEHW Faculty Group Meetings
