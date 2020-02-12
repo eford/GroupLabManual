@@ -9,27 +9,20 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-## Jan 15, 2:30-3:30 in Davey 441
+### Feb 12, 2:30-3:30 in Davey 441
+- Research Updates
+   + Matthias
 - Professional Development Topics
-   - Travel plans 
+   + Requests?
+   
 
-## Jan 22, 2:30-3:30 in Davey 441
-- Travel Reports
-   - AAS/ExoPAG (Matthias)
-   - Asteroseismology (Zhao)
-   - Others?
-- Professional Development Topics
-   - Strategies for effective advising
-   - Requests?
-
-## Feb 12, 2:30-3:30 in Davey 441
-## Feb 26, 2:30-3:30 in Davey 441
-## Mar  4, 2:30-3:30 in Davey 441
-## Mar 18, 2:30-3:30 in Davey 441
-## Apr  1, 2:30-3:30 in Davey 441
-## Apr 15, 2:30-3:30 in Davey 441
-## May  6, 2:30-3:30 in Davey 441
-## May  20, 2:30-3:30 in Davey 441
+### Feb 26, 2:30-3:30 in Davey 441
+### Mar  4, 2:30-3:30 in Davey 441
+### Mar 18, 2:30-3:30 in Davey 441
+### Apr  1, 2:30-3:30 in Davey 441
+### Apr 15, 2:30-3:30 in Davey 441
+### May  6, 2:30-3:30 in Davey 441
+### May  20, 2:30-3:30 in Davey 441
 
 ------------------------------
 
@@ -70,4 +63,17 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 
 ------------------------------
 # Previous Ford Group Meeting Agendae
-- [2019](2019)
+## [2019](2019)
+
+## 2020
+### Jan 15, 2:30-3:30 in Davey 441
+- Professional Development Topics
+   - Travel plans 
+
+### Jan 22, 2:30-3:30 in Davey 441
+- Travel Reports
+   - AAS/ExoPAG (Matthias)
+   - Asteroseismology (Zhao)
+- Professional Development Topics
+   - Strategies for effective advising
+
