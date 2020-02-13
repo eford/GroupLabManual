@@ -9,14 +9,10 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-### Feb 12, 2:30-3:30 in Davey 441
-- Research Updates
-   + Matthias
-- Professional Development Topics
-   + Requests?
-   
-
 ### Feb 26, 2:30-3:30 in Davey 441
+- Travel Reports
+   + TAMU Astronomical Data Science Workshop: Michael & Christian
+
 ### Mar  4, 2:30-3:30 in Davey 441
 ### Mar 18, 2:30-3:30 in Davey 441
 ### Apr  1, 2:30-3:30 in Davey 441
@@ -68,12 +64,16 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 ## 2020
 ### Jan 15, 2:30-3:30 in Davey 441
 - Professional Development Topics
-   - Travel plans 
+   + Travel plans 
 
 ### Jan 22, 2:30-3:30 in Davey 441
 - Travel Reports
-   - AAS/ExoPAG (Matthias)
-   - Asteroseismology (Zhao)
+   + AAS/ExoPAG (Matthias)
+   + Asteroseismology (Zhao)
 - Professional Development Topics
-   - Strategies for effective advising
+   + Strategies for effective advising
 
+
+### Feb 12, 2:30-3:30 in Davey 441
+- Research Updates
+   + Matthias
