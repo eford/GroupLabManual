@@ -12,7 +12,9 @@ weight = 2000
 ### Feb 26, 2:30-3:30 in Davey 441
 - Travel Reports
    + TAMU Astronomical Data Science Workshop: Michael & Christian
-
+- Professional Development 
+   + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
+   
 ### Mar  4, 2:30-3:30 in Davey 441
 ### Mar 18, 2:30-3:30 in Davey 441
 ### Apr  1, 2:30-3:30 in Davey 441
