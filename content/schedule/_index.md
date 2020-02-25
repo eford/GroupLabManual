@@ -12,6 +12,8 @@ weight = 2000
 ### Feb 26, 2:30-3:30 in Davey 441
 - Travel Reports
    + TAMU Astronomical Data Science Workshop: Michael & Christian
+- Professional Development Discussion Topic
+   + [Giving constructive feedback](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html)
 
 ### Mar  4, 2:30-3:30 in Davey 441
 ### Mar 18, 2:30-3:30 in Davey 441
