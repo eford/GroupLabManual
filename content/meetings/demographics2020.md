@@ -1,8 +1,8 @@
 +++
-title = "Sagan Exoplanet Summer Workshop 2020"
+title = "Exoplanet Demographics I"
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
-weight = 20200717
+weight = 20201109
 
 # Creator's Display name
 creatordisplayname = "Eric Ford"
@@ -14,8 +14,9 @@ lastmodifierdisplayname = "Eric Ford"
 #lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# [Sagan Exoplanet Summer Workshop 2020](http://nexsci.caltech.edu/workshop/2020/)
-July 20-24, 2020
+# [Exoplanet Demographics I](http://nexsci.caltech.edu/conferences/exodem/)
+
+November 9-12, 2020
 NASA Exoplanet Science Institute, Pasadena, CA
 
 ### People going from Penn State
