@@ -9,15 +9,10 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-### Feb 26, 2:30-3:30 in Davey 441
-- Travel Reports
-   + TAMU Astronomical Data Science Workshop: Michael & Christian
-- Professional Development Discussion Topics
-   + [Sagan workshop](http://nexsci.caltech.edu/workshop/2020/)
-   + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
-   + [Giving constructive feedback](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html)
 
 ### Mar  4, 2:30-3:30 in Davey 441
+- Professional Development Discussion Topics
+   + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
 
 
 ### Mar 18, 2:30-3:30 in Davey 441
@@ -79,7 +74,13 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Professional Development Topics
    + Strategies for effective advising
 
-
 ### Feb 12, 2:30-3:30 in Davey 441
 - Research Updates
    + Matthias
+
+### Feb 26, 2:30-3:30 in Davey 441
+- Travel Reports
+   + TAMU Astronomical Data Science Workshop: Michael & Christian
+- Professional Development Discussion Topics
+   + [Sagan workshop](http://nexsci.caltech.edu/workshop/2020/)
+   + [Giving constructive feedback](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html)
