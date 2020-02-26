@@ -13,6 +13,7 @@ weight = 2000
 - Travel Reports
    + TAMU Astronomical Data Science Workshop: Michael & Christian
 - Professional Development Discussion Topics
+   + [Sagan workshop](http://nexsci.caltech.edu/workshop/2020/)
    + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
    + [Giving constructive feedback](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html)
 
