@@ -9,13 +9,13 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-
-### Mar  4, 2:30-3:30 in Davey 441
+### Mar 18, 2:30-3:30 in Davey 441
+- Travel updates
+   + [ICDS Symposium](https://ics.psu.edu/news-events/events/icds-symposium-2020/agenda/) (TBC)
 - Professional Development Discussion Topics
    + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
+   + Mitigating COVID-19 impacts
 
-
-### Mar 18, 2:30-3:30 in Davey 441
 ### Apr  1, 2:30-3:30 in Davey 441
 ### Apr 15, 2:30-3:30 in Davey 441
 ### May  6, 2:30-3:30 in Davey 441
@@ -84,3 +84,6 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Professional Development Discussion Topics
    + [Sagan workshop](http://nexsci.caltech.edu/workshop/2020/)
    + [Giving constructive feedback](https://www.nytimes.com/2020/02/24/smarter-living/how-to-give-helpful-feedback.html)
+
+### March 4, 2:30-3:30 in Davey 441
+- Postponed
