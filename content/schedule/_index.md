@@ -9,14 +9,19 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-### Mar 18, 2:30-3:30 in Davey 441
-- Travel updates
-   + [ICDS Symposium](https://ics.psu.edu/news-events/events/icds-symposium-2020/agenda/) (TBC)
+### Mar 18, 2:30-3:30 *via Zoom ONLY*
 - Professional Development Discussion Topics
    + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
    + Mitigating COVID-19 impacts
+   - Travel updates
+      + [ICDS Symposium](https://ics.psu.edu/news-events/events/icds-symposium-2020/agenda/) (TBC)
 
-### Apr  1, 2:30-3:30 in Davey 441
+### Mar 25, 2:30-3:30 *via Zoom ONLY*
+- Professional Development Discussion Topics
+   + Mitigating COVID-19 impacts
+
+### Apr  1, 2:30-3:30 *via Zoom ONLY*
+
 ### Apr 15, 2:30-3:30 in Davey 441
 ### May  6, 2:30-3:30 in Davey 441
 ### May  20, 2:30-3:30 in Davey 441
@@ -31,9 +36,9 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Feb 14, 11am-noon in Davey 432
 - Feb 28, 11am-noon in Davey 432
 - March  6, 11am-noon in Davey 432
-- March 20, 11am-noon in Davey 432
-- March 27, 11am-noon in Davey 432
-- April  3, 11am-noon in Davey 432
+- March 20, 11am-noon *via Zoom ONLY*
+- March 27, 11am-noon *via Zoom ONLY*
+- April  3, 11am-noon *via Zoom ONLY*
 - April 10, 11am-noon in Davey 432
 - April 17, 11am-noon in Davey 432
 - April 24, 11am-noon in Davey 432
@@ -45,7 +50,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Most Fridays, 2-3pm during Spring 2020 via Zoom
 
 ------------------------------
-## Regular Seminars & Other CEHW Faculty Group Meetings
+## Regular Seminars & Other CEHW Faculty Group Meetings (check with them about adjustments due to COVID-19)
 - Mondays 12:10-1:10 CEHW Seminar
 - Monday 2:30-3:30  Bekki Group Meeting
 - Tuesdays 10:30-12 ICS Seminars (just a few during the semester)
