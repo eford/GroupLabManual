@@ -13,18 +13,19 @@ weight = 2000
 - Professional Development Discussion Topics
    + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
    + Mitigating COVID-19 impacts
-   - Travel updates
-      + [ICDS Symposium](https://ics.psu.edu/news-events/events/icds-symposium-2020/agenda/) (TBC)
 
 ### Mar 25, 2:30-3:30 *via Zoom ONLY*
 - Professional Development Discussion Topics
    + Mitigating COVID-19 impacts
+- Research Updates
+   + Kozai & Tidaly-excited oscilations (Zhao)
 
 ### Apr  1, 2:30-3:30 *via Zoom ONLY*
 
-### Apr 15, 2:30-3:30 in Davey 441
-### May  6, 2:30-3:30 in Davey 441
-### May  20, 2:30-3:30 in Davey 441
+### Apr 15, 2:30-3:30  *via Zoom ONLY*
+### May  6, 2:30-3:30  *via Zoom ONLY*
+### May  20, 2:30-3:30  *via Zoom ONLY*
+
 
 ------------------------------
 
