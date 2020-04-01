@@ -9,14 +9,8 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-### Mar 25, 2:30-3:30 *via Zoom ONLY*
-- Professional Development Discussion Topics
-   + Successes/lessons learned from working at home
-   + Mitigating COVID-19 impacts
-- Research Updates
-   + Kozai & Tidaly-excited oscilations (Zhao)
-
 ### Apr  1, 2:30-3:30 *via Zoom ONLY*
+- Making the most of virtual meetings
 
 ### Apr 15, 2:30-3:30  *via Zoom ONLY*
 ### May  6, 2:30-3:30  *via Zoom ONLY*
@@ -94,4 +88,12 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Professional Development Discussion Topics
    + [ROSES 2020 call](http://solicitation.nasaprs.com/ROSES2020)
    + Mitigating COVID-19 impacts
+
+### Mar 25, 2:30-3:30 *via Zoom ONLY*
+- Professional Development Discussion Topics
+   + Successes/lessons learned from working at home
+   + Mitigating COVID-19 impacts
+- Research Updates
+   + Kozai & Tidaly-excited oscilations (Zhao)
+
 
