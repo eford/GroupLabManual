@@ -15,8 +15,10 @@ lastmodifierdisplayname = "Eric Ford"
 +++
 
 [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/)
-Heidelberg, Germany
+Heidelberg, Germany -> Online
 July 27-31, 2020
 
-### People applying from Penn State
-- TBD
+### People "participating" from Penn State
+- Brianna, Matthias, Eric
+- DJ
+

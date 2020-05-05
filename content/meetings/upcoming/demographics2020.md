@@ -19,5 +19,6 @@ lastmodifierdisplayname = "Eric Ford"
 November 9-12, 2020
 NASA Exoplanet Science Institute, Pasadena, CA
 
-### People going from Penn State
-- TBD
+### People participating (fair chance virtual) from Penn State
+- Eric, Matthias?
+
