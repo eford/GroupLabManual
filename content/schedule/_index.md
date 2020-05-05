@@ -9,13 +9,13 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 {{% /notice %}}
 
-### Apr  1, 2:30-3:30 *via Zoom ONLY*
-- Making the most of virtual meetings
 
-### Apr 15, 2:30-3:30  *via Zoom ONLY*
 ### May  6, 2:30-3:30  *via Zoom ONLY*
-### May  20, 2:30-3:30  *via Zoom ONLY*
+- Research Update: Christian
+- Professional Development Topics
+   + Requests?
 
+### May  20, 2:30-3:30  *via Zoom ONLY*
 
 ------------------------------
 
@@ -34,6 +34,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - April 17, 11am-noon in Davey 432
 - April 24, 11am-noon in Davey 432
 - May  1, 11am-noon in Davey 432
+- May  8, **11:30am**-noon in Davey 432
 
 ------------------------------
 
@@ -43,7 +44,7 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 ------------------------------
 ## Regular Seminars & Other CEHW Faculty Group Meetings (check with them about adjustments due to COVID-19)
 - Mondays 12:10-1:10 CEHW Seminar
-- Monday 2:30-3:30  Bekki Group Meeting
+- Monday 2:30-3:30 Bekki Group Meeting
 - Tuesdays 10:30-12 ICS Seminars (just a few during the semester)
 - Tuesdays 3:30-5 NEID Science meeting
 - Tuesdays 4-5 Geosciences Colloquium
@@ -96,4 +97,9 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Research Updates
    + Kozai & Tidaly-excited oscilations (Zhao)
 
+### Apr  1, 2:30-3:30 *via Zoom ONLY*
+- Professional Development Discussion Topics
+   + Making the most of virtual meetings
+
+### Apr 15, 2:30-3:30  *via Zoom ONLY*
 
