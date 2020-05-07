@@ -10,12 +10,17 @@ weight = 2000
 {{% /notice %}}
 
 
-### May  6, 2:30-3:30  *via Zoom ONLY*
-- Research Update: Christian
+### May  13, 2:30-3:30  *via Zoom ONLY*
 - Professional Development Topics
    + Requests?
 
-### May  20, 2:30-3:30  *via Zoom ONLY*
+### May  27, 2:30-3:30  *via Zoom ONLY*
+- Professional Development Topics
+   + Requests?
+
+### June 10, 2:30-3:30  *via Zoom ONLY*
+- Professional Development Topics
+   + Requests?
 
 ------------------------------
 
@@ -101,5 +106,13 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Professional Development Discussion Topics
    + Making the most of virtual meetings
 
-### Apr 15, 2:30-3:30  *via Zoom ONLY*
+### Apr 22, 2:30-3:30  *via Zoom ONLY*
+- Professional Development Discussion Topics
+   + Finding value in reviewer feedback
+
+### May  6, 2:30-3:30  *via Zoom ONLY*
+- Research Update: Christian
+- Professional Development Topics
+   + Online Presentations (Matthias, Michael, Eric)
+
 
