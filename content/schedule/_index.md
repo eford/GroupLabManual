@@ -15,8 +15,13 @@ weight = 2000
    + [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
    + Requests?
 
+### May  20, 2:30-3:30  *via Zoom ONLY*
+- Feedback on draft iPosters for AAS Meeting
++ Requests?
+
 ### May  27, 2:30-3:30  *via Zoom ONLY*
 - Professional Development Topics
+   + Follow-up discussion of [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
    + Requests?
 
 ### June 10, 2:30-3:30  *via Zoom ONLY*
