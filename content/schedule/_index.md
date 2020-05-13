@@ -4,14 +4,15 @@ type="page"
 weight = 2000
 +++
 
-# Ford Group Meetings (full group, focused on professional development)
-{{% notice tip %}}
+# Ford Group Meetings 
+(Full group, focused on professional development)
+
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
-{{% /notice %}}
 
 
 ### May  13, 2:30-3:30  *via Zoom ONLY*
 - Professional Development Topics
+   + [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
    + Requests?
 
 ### May  27, 2:30-3:30  *via Zoom ONLY*

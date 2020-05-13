@@ -15,12 +15,15 @@ weight = 6000
 
 ## Links to PSU sites
 - [PSU Astro Graduate Handbook](https://astro.psu.edu/images/pdfs/Graduate-Student-Handbook-2)
+- [ECoS Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
 
 ## Links to Proposal Opportunities
-- [ROSES 2018](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=604138/solicitationId=%7B269E574F-3BCA-0221-96A6-AFA618145EE4%7D/viewSolicitationDocument=1/Table%202%202018%20amend71.html) including "second calls" extending into 2019.
-- [ROSES 2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=660371/solicitationId=%7BABB576B8-F844-25E0-AD23-9E94AAC04AE1%7D/viewSolicitationDocument=1/Table%202%202019.html)
-- [ROSES 2020](http://solicitation.nasaprs.com/ROSES2020)
-- [SARA](https://science.nasa.gov/researchers/sara/grant-solicitations)
+- NASA
+   + [ROSES 2020](http://solicitation.nasaprs.com/ROSES2020)
+   + [ROSES 2019](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=660371/solicitationId=%7BABB576B8-F844-25E0-AD23-9E94AAC04AE1%7D/viewSolicitationDocument=1/Table%202%202019.html)
+   + [SARA](https://science.nasa.gov/researchers/sara/grant-solicitations)
 
 
 ## Links to external sites
+- Todo
+
