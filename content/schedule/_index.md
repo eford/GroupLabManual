@@ -10,23 +10,32 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
 
-### May  13, 2:30-3:30  *via Zoom ONLY*
+### June 10, 2:30-4:00  *via Zoom ONLY*
+- Travel Reports
+   + AAS Meeting (Brianna, Matthias)
 - Professional Development Topics
-   + [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
-   + Requests?
+   + Lessons learned for future virtual meetings
+   + Police Brutality & Racism and their impact on Penn State & Astronomical Communities 
 
-### May  20, 2:30-3:30  *via Zoom ONLY*
-- Feedback on draft iPosters for AAS Meeting
-+ Requests?
+### June 24, 2:30-3:30  *via Zoom ONLY*
+- Requests?
 
-### May  27, 2:30-3:30  *via Zoom ONLY*
-- Professional Development Topics
-   + Follow-up discussion of [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
-   + Requests?
+### July 8, 2:30-3:30  *via Zoom ONLY*
+- Requests?
 
-### June 10, 2:30-3:30  *via Zoom ONLY*
-- Professional Development Topics
-   + Requests?
+### July 15, 2:30-3:30  *via Zoom ONLY*
+- Feedback on practice presentations for Sagan, Exoplanets III and/or DDA
+- Requests?
+
+### July 22, 2:30-3:30  *via Zoom ONLY*
+- Cancel for Sagan Workshop?
+
+### July 29, 2:30-3:30  *via Zoom ONLY*
+- Cancel for Exoplanets III
+
+### August 5, 2:30-3:30  *via Zoom ONLY*
+- Cancel for DDA?
+
 
 ------------------------------
 
@@ -46,6 +55,18 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - April 24, 11am-noon in Davey 432
 - May  1, 11am-noon in Davey 432
 - May  8, **11:30am**-noon in Davey 432
+- May 15, 11:05am-noon in Davey 432
+- May 22, 11:05am-noon in Davey 432
+- May 29, 11:05am-noon in Davey 432
+- June  5, 11:05am-noon in Davey 432
+- June 12, 11:05am-noon in Davey 432
+- June 19, 11:05am-noon in Davey 432
+- June 26, 11:05am-noon in Davey 432
+- July  3, 11:05am-noon in Davey 432
+- July 10, 11:05am-noon in Davey 432
+- July 17, 11:05am-noon in Davey 432
+- Aug   7, 11:05am-noon in Davey 432
+- Aug  14, 11:05am-noon in Davey 432
 
 ------------------------------
 
@@ -121,4 +142,10 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 - Professional Development Topics
    + Online Presentations (Matthias, Michael, Eric)
 
+### May  13, 2:30-3:30  *via Zoom ONLY*
+- Professional Development Topics
+   + [Guidelines for Advisor – Graduate Student Interactions](https://grad-activity.science.psu.edu/node/1)
+
+### May  20, 2:30-3:30  *via Zoom ONLY*
+- Feedback on draft iPosters for AAS Meeting
 
