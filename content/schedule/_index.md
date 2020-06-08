@@ -11,11 +11,13 @@ weight = 2000
 
 
 ### June 10, 2:30-4:00  *via Zoom ONLY*
+- Police Brutality & Racism and their impact on Penn State & Astronomical Communities 
+
+### June 17, 2:30-4:00  *via Zoom ONLY*
 - Travel Reports
    + AAS Meeting (Brianna, Matthias)
 - Professional Development Topics
    + Lessons learned for future virtual meetings
-   + Police Brutality & Racism and their impact on Penn State & Astronomical Communities 
 
 ### June 24, 2:30-3:30  *via Zoom ONLY*
 - Requests?
