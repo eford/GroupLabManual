@@ -10,7 +10,7 @@ weight = 2000
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
 
-### June 10, 2:30-4:00  *via Zoom ONLY*
+### June 10, 3:00-4:00  *via Zoom ONLY*
 - Police Brutality & Racism and their impact on Penn State & Astronomical Communities 
 
 ### June 17, 2:30-4:00  *via Zoom ONLY*
