@@ -4,25 +4,13 @@ type="page"
 weight = 2000
 +++
 
-# Ford Group Meetings 
+# Ford Group Meetings
 (Full group, focused on professional development)
 
 [Submit agenda items via pull request](https://github.com/eford/GroupLabManual/blob/master/content/schedule/_index.md)
 
 
-### June 10, 3:00-4:00  *via Zoom ONLY*
-- Police Brutality & Racism and their impact on Penn State & Astronomical Communities 
-
-### June 17, 2:30-4:00  *via Zoom ONLY*
-- Travel Reports
-   + AAS Meeting (Brianna, Matthias)
-- Professional Development Topics
-   + Lessons learned for future virtual meetings
-
-### June 24, 2:30-3:30  *via Zoom ONLY*
-- Requests?
-
-### July 8, 2:30-3:30  *via Zoom ONLY*
+### July 1, 2:30-3:30  *via Zoom ONLY*
 - Requests?
 
 ### July 15, 2:30-3:30  *via Zoom ONLY*
@@ -151,3 +139,13 @@ Please upload your slides to the relevant [box subfolder](https://psu.app.box.co
 ### May  20, 2:30-3:30  *via Zoom ONLY*
 - Feedback on draft iPosters for AAS Meeting
 
+### June 10, 3:00-4:00  *via Zoom ONLY*
+- Police Brutality & Racism and their impact on Penn State & Astronomical Communities
+
+### June 17, 2:30-4:00  *via Zoom ONLY*
+- Travel Reports
+   + AAS Meeting (Brianna, Matthias)
+- Professional Development Topics
+   + Lessons learned for future virtual meetings
+   + Follow-up from last meetings
+   + Publishing in less common journals
