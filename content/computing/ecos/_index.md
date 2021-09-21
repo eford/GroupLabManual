@@ -25,5 +25,6 @@ lastmodifierdisplayname = "Eric Ford"
 ## Our group machines
 - sagan:  On Eric's desk (mounts Synology NAS box/RAID array in sagan1 directory)
 - green:  On ???'s desk (has CUDA-enabled GPU)
-- shapiro:  On ???'s desk
+- shapiro:  Intel Core i7-3770 CPU @ 3.40GHz, 8GB RAM, 2x 4TB HDD (RAID 1), device tag 052367
 - another machine?
+- Alex's laptop: 
